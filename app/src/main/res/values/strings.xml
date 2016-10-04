@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadmoreRecyclerView</string>
+    <string name="raymond"><b>Raymond</b></string>
+    <string name="txt_2">A new employee has been added</string>
+    <string name="like"><b>Like</b></string>
+    <string name="comment"><b>Comments</b></string>
+
+</resources>
